@@ -1,67 +1,62 @@
-# Compliance Analyst Portfolio  
+# 📂 Compliance Analyst Portfolio
 
-Welcome to my **Compliance Analyst Portfolio**. This repository highlights examples of my work in **regulatory compliance, fraud prevention, risk management, and data analytics**.  
+Welcome to my **Compliance Analyst Portfolio**, a collection of audit-ready projects, test scripts, and workpapers designed to demonstrate expertise in **BSA/AML, KYC/CDD, sanctions compliance, and financial crime prevention**.  
 
-All documents, dashboards, and scripts are based on **dummy or redacted data**. These examples are designed to demonstrate my methodology, technical skills, and professional approach to compliance.  
-
----
-
-## 📌 About Me  
-I am a **Certified Fraud Examiner (CFE)** and compliance professional with experience in:  
-- Designing and executing **compliance monitoring and testing programs**  
-- Developing **fraud detection frameworks** using SQL, Excel, and automation tools  
-- Supporting regulatory audits, remediation efforts, and change management  
-- Translating regulations (BSA/AML, OFAC, consumer protection) into **clear, testable controls**  
-
-This portfolio is tailored for roles such as:  
-- **Compliance Analyst / Senior Compliance Analyst**  
-- **Fraud Investigator / KYC Program Manager**  
-- **Compliance Program Manager**  
+This repository highlights my ability to design **structured compliance testing frameworks**, document findings, and build **reusable templates** that align with regulatory expectations.
 
 ---
 
-## 📂 Portfolio Contents  
+## 📘 Portfolio Projects
 
-### 1. Workpapers & Test Scripts  
-- BSA/AML test script (control design vs. operating effectiveness)  
-- Consumer protection review template with tolerable deviation rules  
-- Corrective Action Tracker (Excel-based)  
-
-### 2. Dashboards & Analytics  
-- Fraud trends dashboard (Excel Pivot)  
-- KYC backlog aging report (SQL + Excel)  
-- Exception testing dashboard (regulatory non-compliance)  
-
-### 3. Automation & Data Tools  
-- Python script converting Newman (Postman) API output into audit-ready logs  
-- SQL queries for fraud detection and exception reporting  
-- Random sampling script for compliance reviews  
-
-### 4. Frameworks & Templates  
-- Compliance monitoring & testing calendar  
-- Risk assessment matrix (low/medium/high with mapped controls)  
-- Vendor due diligence checklist with scoring model  
-
-### 5. Presentations & Case Studies  
-- Compliance testing framework overview  
-- Fraud investigation workflow diagram  
-- Efficiency gains from automation (before/after deck)  
+### 🔹 [BSA / SAR Compliance Test Script](./bsa-sar)
+**Workbook:** `BSA_SAR_Test_Script_Workbook.xlsx`  
+- Covers BSA core requirements: Currency Transaction Reports (CTRs), Suspicious Activity Reports (SARs), recordkeeping, KYC/CDD, and AML program elements.  
+- Includes:  
+  - Sample selection tracking  
+  - Test script with execution & results  
+  - Document repository for evidence  
+  - Findings & remediation log  
 
 ---
 
-## 🌐 How to Navigate  
-- Start with **[workpapers](./workpapers/)** for compliance testing examples.  
-- Explore **[dashboards](./dashboards/)** for data visualization samples.  
-- Review **[automation_scripts](./automation_scripts/)** for Python/SQL work.  
-- Check **[frameworks_templates](./frameworks_templates/)** for templates and governance tools.  
+### 🔹 [KYC / CDD Test Script](./kyc-cdd) *(Coming Soon)*
+- Focused on Customer Identification Program (CIP) and Enhanced Due Diligence (EDD).  
+- Will demonstrate testing of account opening documentation, risk rating, ongoing monitoring, and periodic reviews.  
 
 ---
 
-## 📞 Connect With Me  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub profile URL]  
-- **Email:** [Your email]  
+### 🔹 [OFAC Sanctions Testing](./ofac-sanctions) *(Coming Soon)*
+- Sanctions screening coverage and list management.  
+- Test workpapers showing alert review, escalation procedures, and reporting obligations.  
 
 ---
 
-⚖️ **Disclaimer**: All examples are fictional and created for demonstration purposes only. No proprietary or client information is included.  
+### 🔹 [AML Training & Program Governance](./aml-training) *(Coming Soon)*
+- Example training logs, tracking compliance with annual AML training requirements.  
+- Program governance documentation templates.  
+
+---
+
+### 🔹 [Reusable Templates](./templates) *(Planned)*
+- Standardized test script templates for compliance testing.  
+- Reusable frameworks for sample selection and remediation tracking.  
+
+---
+
+## 🛠 Skills Demonstrated
+- **Regulatory Knowledge**: BSA, FinCEN, SAR/CTR rules, KYC/CDD, OFAC.  
+- **Testing Frameworks**: Design, execution, exception tracking.  
+- **Documentation**: Workpapers, evidence repositories, remediation tracking.  
+- **Tools**: Excel (formulas, data validation), GitHub (portfolio management).  
+
+---
+
+## 🚀 How to Use
+1. Navigate into each project folder (e.g., [`/bsa-sar`](./bsa-sar)).  
+2. Open the project README for details.  
+3. Download and explore the Excel workbooks or templates.  
+
+---
+
+## ⚖️ Disclaimer
+These
