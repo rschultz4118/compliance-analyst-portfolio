@@ -1,6 +1,8 @@
-# 📊 BSA / SAR Compliance Test Script
+# 📊 BSA / SAR Compliance Test Script **Template**
 
-This project contains a structured compliance test script for the **Bank Secrecy Act (BSA)** and **Suspicious Activity Reports (SARs)**. It demonstrates how compliance testing can be documented in **audit-ready workpapers**.
+This project contains a **template workbook** that demonstrates how a compliance test script can be structured for the **Bank Secrecy Act (BSA)** and **Suspicious Activity Reports (SARs)**. It illustrates how compliance testing may be documented in **audit-ready workpapers**, using a framework approach.  
+
+⚠️ **Note:** This is a **template for demonstration purposes only**. It does not include client data or completed testing.  
 
 ---
 
@@ -15,15 +17,15 @@ This project contains a structured compliance test script for the **Bank Secrecy
 ---
 
 ## 🎯 Purpose
-This workbook is designed to:  
-- Evaluate compliance with BSA core requirements:  
+This workbook template is designed to:  
+- Outline testing for BSA core requirements:  
   - Currency Transaction Reports (CTRs)  
   - Suspicious Activity Reports (SARs)  
   - Recordkeeping and reporting  
   - Know Your Customer (KYC) and Customer Due Diligence (CDD)  
   - AML program components  
 - Demonstrate practical testing methods with execution details and evidence linkage.  
-- Provide a **portfolio example** of compliance monitoring and audit documentation.  
+- Provide a **portfolio-ready template** of compliance monitoring and audit documentation.  
 
 ---
 
@@ -35,7 +37,7 @@ This workbook is designed to:
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use (Template Workflow)
 1. Open `BSA_SAR_Test_Script_Workbook.xlsx`.  
 2. In **Sample Selection**, log sample transactions or customer IDs.  
 3. Add evidence in **Document Repository** with unique Document IDs.  
@@ -46,5 +48,5 @@ This workbook is designed to:
 ---
 
 ## ⚖️ Disclaimer
-This project is for **educational and portfolio purposes only**.  
-It is not legal advice and should be adapted to the specific regulatory requirements of an institution.  
+This project is a **template for educational and portfolio purposes only**.  
+It is not legal advice and should be tailored to the specific regulatory requirements of an institution.  
